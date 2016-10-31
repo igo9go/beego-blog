@@ -4,7 +4,7 @@
 
 http://go-blog.igo9go.cn
 ###安装
-- 安装go
+- 安装go开发环境
     - mac 直接下载安装 https://storage.googleapis.com/golang/go1.7.3.darwin-amd64.pkg
     
     - linux
@@ -25,7 +25,7 @@ http://go-blog.igo9go.cn
 
 - cd $GOPATH/src/igo9go/beego-blog
 
-- 数据库配置文件修改
+- 数据库初始化,配置文件修改
 
 - bee run 
 
